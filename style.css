@@ -742,7 +742,7 @@ textarea {
 .contact {
     max-width: 800px;
     margin: 30px auto;
-    text-align: center;
+    text-align: left;
     padding: 20px;
 }
 
@@ -769,13 +769,13 @@ textarea {
         font-size: 18px;
     }
 
-    .contact .smalx {
-        color: #2fa4e7;
-        font-size: 18px;
-        align-items: center;
-    }
-        
-    .contact-mail {
+.contact-phone .icon {
+    width: 36px;
+    height: 36px;
+}
+
+    
+ .contact-mail {
         color: #8b0000;
         font-weight: 400px;
         display: flex;
@@ -784,13 +784,12 @@ textarea {
         font-size: 18px;
 }
 
-.contact .smallx {
-        color: #2fa4e7;
-        font-size: 18px;
-        align-items: center;
+.contact-mail .icon {
+    width: 36px;
+    height: 36px;
 }
 
-.contact-website {
+.contact-whatsapp {
         color: #8b0000;
         font-weight: 400px;
         display: flex;
@@ -799,13 +798,68 @@ textarea {
         font-size: 18px
 }
 
-
-.contact .smalllx {
-        color: #2fa4e7;
-        font-size: 18px;
-        align-items: center;
+.contact-whatsapp .icon {
+    width: 36px;
+    height: 36px;
 }
 
+.contact-youtube {
+        color: #8b0000;
+        font-weight: 400px;
+        display: flex;
+        align-items: left;
+        gap: 0px;
+        font-size: 18px
+}
+
+.contact-youtube .icon {
+    width: 36px;
+    height: 36px;
+}
+
+
+.contact-telegram {
+        color: #8b0000;
+        font-weight: 400px;
+        display: flex;
+        align-items: left;
+        gap: 0px;
+        font-size: 18px
+}
+
+.contact-telegram .icon {
+    width: 36px;
+    height: 36px;
+}
+
+
+.contact-facebook {
+        color: #8b0000;
+        font-weight: 400px;
+        display: flex;
+        align-items: left;
+        gap: 0px;
+        font-size: 18px
+}
+
+.contact-facebook .icon {
+    width: 36px;
+    height: 36px;
+}
+
+.contact-instagram {
+        color: #8b0000;
+        font-weight: 400px;
+        display: flex;
+        align-items: left;
+        gap: 0px;
+        font-size: 18px
+}
+
+.contact-instagram .icon {
+    width: 36px;
+    height: 36px;
+}
 
 .contact-visit {
         color: #8b0000;
@@ -814,32 +868,16 @@ textarea {
         align-items: left;
         gap: 0;
         font-size: 18px;
-
-    .contact .smallllx {
-        color: #2fa4e7;
-        font-size: 14px;
-        align-items: center;
-        
-    }
-    .contact-item {
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    gap: 15px;               /* space between icon & text */
-    margin: 12px 0;
 }
 
-.contact-item .icon {
+
+  .contact-visit .icon {
     width: 36px;
     height: 36px;
-}
+  }
 
-.contact-item a {
-    text-decoration: none;
-    font-size: 16px;
-    color: #2c6ed5;
-    word-break: break-word;
-}
+    
+    
         
 }
 

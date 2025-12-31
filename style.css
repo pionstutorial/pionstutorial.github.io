@@ -18,7 +18,7 @@ body {
 }
 
 .site-logo {
-    height: 70px;      /* SAME on every page */
+    height: 100px;      /* SAME on every page */
     width: auto;
     display: inline-block;
 }
@@ -98,7 +98,7 @@ body {
 }
 
 .site-logo {
-    height: 70px;      /* SAME on every page */
+    height: 100px;      /* SAME on every page */
     width: auto;
     display: inline-block;
 }
@@ -198,7 +198,7 @@ margin-top: 0;
 }
 
 .site-logo {
-    height: 70px;      /* SAME on every page */
+    height: 100px;      /* SAME on every page */
     width: auto;
     display: inline-block;
 }
@@ -296,7 +296,7 @@ body {
 }
 
 .site-logo {
-    height: 70px;      /* SAME on every page */
+    height: 100px;      /* SAME on every page */
     width: auto;
     display: inline-block;
 }
@@ -397,7 +397,7 @@ footer {
 }
 
 .site-logo {
-    height: 70px;      /* SAME on every page */
+    height: 100px;      /* SAME on every page */
     width: auto;
     display: inline-block;
 }
@@ -472,7 +472,7 @@ button {
 }
 
 .site-logo {
-    height: 70px;      /* SAME on every page */
+    height: 100px;      /* SAME on every page */
     width: auto;
     display: inline-block;
 }
@@ -549,7 +549,7 @@ button {
 }
 
 .site-logo {
-    height: 70px;      /* SAME on every page */
+    height: 100px;      /* SAME on every page */
     width: auto;
     display: inline-block;
 }
@@ -707,7 +707,7 @@ body {
 }
 
 .site-logo {
-    height: 70px;      /* SAME on every page */
+    height: 100px;      /* SAME on every page */
     width: auto;
     display: inline-block;
 }
@@ -1138,3 +1138,9 @@ nav ul li a {
     color: #2fa4e7 !important;
 }
         
+/* FORCE logo size on ALL pages */
+header.site-header img {
+    height: 100px !important;
+    width: auto !important;
+    max-height: 100px !important;
+}

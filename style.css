@@ -1043,12 +1043,6 @@ textarea {
   padding: 10px;
 }
 
-.site-logo {
-  height: 85px;
-  width: auto;
-  display: block;
-  max-width: 100%;
-}
   
 nav ul {
   display: flex;

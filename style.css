@@ -1034,14 +1034,14 @@ body {
 }
 
 .main-nav ul li a {
-  color: white;
+  color: #2fa4e7;
   text-decoration: none;
   padding: 10px 14px;
   display: block;
 }
 
 .main-nav ul li a:hover {
-  background-color: #0055aa;
+  background-color: #f7f9fc;
 }
 
 /* HAMBURGER */
@@ -1075,7 +1075,7 @@ body {
     top: 70px;
     left: 0;
     width: 100%;
-    background-color: #003366;
+    background-color: #f7f9fc;
     display: none;
   }
 

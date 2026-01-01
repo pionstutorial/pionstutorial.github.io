@@ -1144,7 +1144,8 @@ body {
 
   .main-nav ul li a {
     color: #003366;
-    border-top: 1px solid #e1eaf4;
+    border-top: 1px solid #e1eaf4
+    padding: 14px;
   }
 
   /* toggle menu */

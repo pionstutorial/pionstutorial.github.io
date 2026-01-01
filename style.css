@@ -36,7 +36,7 @@ body {
   align-items: center;
   gap: 60px;
   padding-left: 100%;
-  animation: scrollText 20s linear infinite;
+  animation: scrollText 40s linear infinite;
 }
 
 /* CLICKABLE LINKS */

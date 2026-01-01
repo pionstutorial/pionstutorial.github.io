@@ -1028,11 +1028,7 @@ body {
   padding: 10px 16px;
 }
 
-/* LOGO */
-.logo img {
-  height: 70px;
-  width: auto;
-}
+
 
 /* NAV */
 .main-nav ul {
@@ -1159,21 +1155,29 @@ body {
 
 .hamburger {
   margin-left: auto;
+  grid-column: 3;
+  justify-self: end;
 }
 
 .nav-container {
-  position: relative;
-  display: flex;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
   align-items: center;
-  justify-content: flex-end; /* hamburger stays right */
   max-width: 1200px;
-  padding: 10px 16px;
+  padding: 0px 16px;
 }
 
+
 .logo {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
+  text-align: center;
+  grid-column: 2;
+}
+
+/* LOGO */
+.logo img {
+  height: 70px;
+  width: auto;
 }
 
 .site-header {

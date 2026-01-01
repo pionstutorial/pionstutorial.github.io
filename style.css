@@ -947,7 +947,7 @@ textarea {
         display: flex;
         align-items: center;
         gap: 0px;
-        font-size: 16px
+        font-size: 16px;
 }
 
 .contact-whatsapp .icon {
@@ -961,7 +961,7 @@ textarea {
         display: flex;
         align-items: center;
         gap: 0px;
-        font-size: 16px
+        font-size: 16px;
 }
 
 .contact-youtube .icon {
@@ -976,7 +976,7 @@ textarea {
         display: flex;
         align-items: center;
         gap: 0px;
-        font-size: 16px
+        font-size: 16px;
 }
 
 .contact-telegram .icon {
@@ -991,7 +991,7 @@ textarea {
         display: flex;
         align-items: center;
         gap: 0px;
-        font-size: 16px
+        font-size: 16px;
 }
 
 .contact-facebook .icon {
@@ -1005,7 +1005,7 @@ textarea {
         display: flex;
         align-items: center;
         gap: 0px;
-        font-size: 16px
+        font-size: 16px;
 }
 
 .contact-instagram .icon {

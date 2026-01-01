@@ -754,6 +754,17 @@ body {
   padding: 15px;
 }
 
+.course-heading {
+  color: #2fa4e7;
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+.message-heading {
+  color: #2fa4e7
+  font-weight: 600;
+  }
+
 .course-options {
   margin-top: 4px;
   margin-left: 0;

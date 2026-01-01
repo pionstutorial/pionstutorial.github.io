@@ -118,6 +118,20 @@ body {
   padding: 15px 0;
 }
 
+
+.footer {
+  width: 100%;
+  background-color: #1f4fa3;
+  color: white;
+}
+
+.footer-inner {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
 }
 
 
@@ -994,11 +1008,7 @@ nav ul li a {
     height: auto !important;
   }
 
-  .footer-content {
-    max-width: 1200px; !important;
-    text-align: center !important;
-    margin: auto;
-  }
+  
 }
 
 

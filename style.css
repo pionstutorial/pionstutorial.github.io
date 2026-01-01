@@ -921,6 +921,7 @@ textarea {
 .contact-phone .icon {
     width: 28px;
     height: 28px;
+    align-items:  left;
 }
 
     
@@ -937,6 +938,7 @@ textarea {
 .contact-mail .icon {
     width: 28px;
     height: 28px;
+    align-items:  left;
 }
 
 .contact-whatsapp .link {
@@ -952,6 +954,7 @@ textarea {
 .contact-whatsapp .icon {
     width: 28px;
     height: 28px;
+    align-items:  left;
 }
 
 .contact-youtube .link {
@@ -967,6 +970,7 @@ textarea {
 .contact-youtube .icon {
     width: 28px;
     height: 28px;
+    align-items: left;
 }
 
 
@@ -983,6 +987,7 @@ textarea {
 .contact-telegram .icon {
     width: 28px;
     height: 28px;
+    align-items:  left;
 }
 
 
@@ -999,6 +1004,7 @@ textarea {
 .contact-facebook .icon {
     width: 28px;
     height: 28px;
+    align-items:  left;
 }
 
 .contact-instagram .link {
@@ -1014,6 +1020,7 @@ textarea {
 .contact-instagram .icon {
     width: 28px;
     height: 28px;
+    align-items:  left;
 }
 
 .contact-visit .link {
@@ -1030,6 +1037,7 @@ textarea {
   .contact-visit .icon {
     width: 28px;
     height: 28px;
+      align-items: left;
   }
 
   

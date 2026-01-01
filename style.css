@@ -912,7 +912,7 @@ textarea {
     margin-bottom: 0;
 }
 
-    .contact-phone link {
+    .contact-phone .link {
         color: #2fa4e7;
         font-weight: 400px;
         display: flex;
@@ -927,7 +927,7 @@ textarea {
 }
 
     
- .contact-mail link {
+ .contact-mail .link {
         color: #2fa4e7;
         font-weight: 400px;
         display: flex;
@@ -941,7 +941,7 @@ textarea {
     height: 28px;
 }
 
-.contact-whatsapp link {
+.contact-whatsapp .link {
         color: #2fa4e7;
         font-weight: 400px;
         display: flex;
@@ -955,7 +955,7 @@ textarea {
     height: 28px;
 }
 
-.contact-youtube link {
+.contact-youtube .link {
         color: #2fa4e7;
         font-weight: 400px;
         display: flex;
@@ -970,7 +970,7 @@ textarea {
 }
 
 
-.contact-telegram link {
+.contact-telegram .link {
         color: #2fa4e7;
         font-weight: 400px;
         display: flex;
@@ -985,7 +985,7 @@ textarea {
 }
 
 
-.contact-facebook link {
+.contact-facebook .link {
         color: #2fa4e7;
         font-weight: 400px;
         display: flex;
@@ -999,7 +999,7 @@ textarea {
     height: 28px;
 }
 
-.contact-instagram link {
+.contact-instagram .link {
         color: #2fa4e7;
         font-weight: 400px;
         display: flex;
@@ -1013,7 +1013,7 @@ textarea {
     height: 28px;
 }
 
-.contact-visit link {
+.contact-visit .link {
         color: #2fa4e7;
         font-weight: 400px;
         display: flex;
